@@ -68,7 +68,6 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 * Ad Spiers, Max Planck Institute for Intelligent Systems, Stuttgart
 * Pedro Lopes, University of Chicago
 
-
 ## Social Activities Chairs
 
 <mailto:socialactivities@hapticssymposium.org>
@@ -95,7 +94,6 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 * Claudio Pacchierotti, Centre national de la recherche scientifique (CNRS), Rennes
 
-
 ## Registration Chair
 
 <mailto:registration@hapticssymposium.org>
@@ -116,9 +114,8 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 * Taku Hachisu, Tsukuba University
 
-
 ## Web Chair
 
 <mailto:webmaster@hapticssymposium.org>
 
-* Oliver Schneider, University of Waterloo
+* Oliver Schneider, University of Waterloo, Canada
