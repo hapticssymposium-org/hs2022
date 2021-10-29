@@ -1,21 +1,17 @@
 ---
 title: Sponsorship
-image: /img/bg07.jpg
+image: /img/bg12.jpg
 ---
-We are delighted to invite you to support the 2020 IEEE Haptics Symposium as a sponsor or exhibitor.
+The IEEE Haptics Symposium would like to sincerely thank our sponsors for their support. 
 
-For sponsorship opportunities, please contact the sponsorship chairs: <mailto:sponsorship@hapticssymposium.org>
+## Sponsorship opportunities
 
-The 2020 Sponsorship Chairs are:
+For sponsorship opportunities, please contact the sponsorship chairs: <mailto:sponsorship@hapticssymposium.org>.
 
-* Hong Tan, Purdue University
-* Tania Morimoto, University of California, San Diego
-* Nick Colonnese, Facebook
+The sponsorship prospectus for 2022 will be available shortly. In the meantime, we welcome you to review the prospectus from the 2020 conference: [2020 Sponsorship Prospectus](https://hapticssymposium.org/haptics2020/files/IEEEHS2020SponsorshipProspectus.pdf).
 
-# Current Sponsors
+The 2022 Sponsorship Chairs are:
 
-![IEEE Logo](/img/ieee_logo.png "IEEE")
-
-![IEEE Robotics and Automation Society Logo](/img/ieee_ras_logo.png "IEEE Robotics and Automation Society")
-
-![Technical Committee on Haptics Logo](/img/tch_logo.png "Technical Committee on Haptics")
+* Michael Zinn, University of Wisconsin
+* Evan Pezent, Facebook Reality Labs / Rice University
+* Kouta Minamizawa, Keio University

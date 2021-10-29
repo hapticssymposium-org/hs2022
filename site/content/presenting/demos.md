@@ -1,6 +1,6 @@
 ---
 title: Hands-On Demonstrations
-deadline: 'January 31, 2020'
+deadline: 'Monday, January 24, 2022'
 description: >-
   Haptics Symposium strongly encourages demonstrations of all kinds - for
   example, of novel developments in haptics-related devices, software or
@@ -13,7 +13,7 @@ description: >-
   must be free of commercial content; companies wishing to showcase products
   should apply for exhibitor status.
 image: ''
-weight: 4
+weight: 5
 ---
 # Demos
 
@@ -25,25 +25,33 @@ Submission of hands-on demonstrations is open to all members of the haptics rese
 
 ## Timeline
 
-Late November, 2019 – Demo submissions open
+Late 2021 – Demo submissions open
 
-January 31, 2020 – Demo submission deadline
+**Monday, January 24, 2022** (11:59 pm Pacific Time) – Demo submission deadline
 
-Early February, 2020 – Demo acceptance notification
+TBA – Demo acceptance notification
 
 ## Submission Method
 
-Proposals for hands-on demonstrations will be submitted electronically via our PrecisionConference system. Select the "Haptics Symposium" Society, "Haptics 2020" Conference, and "Haptics 2020 Demonstrations" Track.
+Proposals for hands-on demonstrations should be submitted using [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl).  
 
 Each submission will include the following items:
 
 * A title that succinctly describes the demonstration.
 * An ordered list of authors (including first and last names), with an indication of who is the corresponding author.
-* A 100-word abstract describing the hands-on demonstration in more detail.
-* An image that can be used in the conference digest. The image should have a square aspect ratio and contain at least 900 pixels by 900 pixels, in JPEG or PNG format, with a file size less than 2 MB.
-* Any special considerations that the conference organizers should be aware of.
+* A 1 page PDF describing the hands on demonstration. This should use the [ieeeconf format](http://ras.papercept.net/conferences/support/support.php).
+* Any special considerations that the conference organizers should be aware of. For example, extra space requirements in the demo area. 
+* A video (required), see guidelines below.
 
-It is also highly recommended that authors submit a supplemental video. Videos will be used for promotional purposes at the conference, and all videos will be compiled in a single one that will be posted on the conference website to showcase current research in haptics. When submitting a video, please follow these guidelines: format (mpeg, 4m, mp4), length (up to 2 minutes), resolution (at least 480p progressive scan), and file size (up to 40 MB).
+Authors should submit a supplemental video that describes their demonstration, preferably with motivation for the work. 
+
+Videos will be used for promotional purposes at the conference, and all videos will be compiled into a digest video that will be posted on the conference website and uploaded to YouTube to showcase current research in haptics. In consideration of this, please do not include any material in your video that you consider confidential.
+
+When submitting a video, please follow these guidelines: 
+
+Length: Up to 1 minute\
+Size: up to 40 MB\
+Format: This should be a common format (e.g. MP4). Authors should confirm that their video will play on a recent version of [VLC media player](https://www.videolan.org/vlc/index.html) (cross platform) without the need to download additional codecs. 
 
 ## Review Process
 
@@ -51,16 +59,18 @@ Submissions will be reviewed by the Demos & Exhibits Co-Chairs to ensure all dem
 
 ## Publication
 
-The submitted title, author list, abstract, image, and video will be included in the electronic proceedings distributed to conference attendees but not archived on IEEExplore.
+The submitted title, author list, 1 page PDF and image will be included in the electronic proceedings distributed to conference attendees, but not archived on IEEExplore.
 
 ## Demonstration Details
 
-Demonstrations will be assigned to specific sessions in which authors are required to be near their demo to engage in interactive discussions with other conference attendees.
+Demonstrations will be assigned to specific sessions in which authors are required to be near their demo table. 
 
-Demonstration authors are encouraged to bring a poster to accompany their demo.
+We strongly recommend that demonstrators have two or more persons at their table during the session, to enable technical discussions to take place without having to pause the hands-on demo. If it is not possible to have more than one person present, then the demonstrator may contact the demo chairs in advance of the conference to request assistance from a student volunteer. 
+
+Demonstrators are encouraged to bring a poster to accompany their demo.
 
 Each demonstration will be assigned a space at the conference. The space will include a table, chairs, electrical power, and poster board.
 
 ## Logistics
 
-Each demo will be allocated a space that includes a 72" by 30" (183 cm by 76 cm) table, two chairs, one six-outlet power strip (120 V, 60 Hz, type B North America plugs), and a 8' by 4' (2.4 m by 1.2 m) board for mounting a poster. Demo presenters are invited to set up their demos on Sunday, March 28 after 7:00 p.m. Demos should be removed by 1:00 p.m. on Wednesday, March 31 (the last day of the conference).
+Each demo will be allocated a space that includes a 72" by 30" (183 cm by 76 cm) table, two chairs, one six-outlet power strip (120 V, 60 Hz, type B North America plugs), and a 8' by 4' (2.4 m by 1.2 m) board for mounting a poster. Demo presenters are invited to set up their demos on Saturday, March 28 after 7:00 p.m. Demos should be removed by 3:00 p.m. on Tuesday, March 31 (the last day of the conference).

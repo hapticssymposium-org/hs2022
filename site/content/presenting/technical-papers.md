@@ -1,9 +1,9 @@
 ---
 title: Technical Papers
-deadline: 'October 20, 2019'
+deadline: 'Thursday, October 21, 2021 (extended deadline)'
 description: >-
-  IEEE Haptics Symposium 2020 solicits technical papers that report original,
-  novel, unpublished work relevant to all the scientific, technological, and
+  IEEE Haptics Symposium solicits technical papers that report original, novel,
+  unpublished work relevant to all the scientific, technological, and
   application aspects of haptics. Papers are up to 6 pages in length, including
   references.
 image: ''
@@ -15,9 +15,9 @@ We solicit technical papers that report original, novel, unpublished work releva
 
 ## **Paper Format**
 
-Technical papers should be prepared according to the formatting instructions available here.
+Technical papers should be prepared according to the formatting instructions available [here](http://ras.papercept.net/conferences/support/support.php).
 
-For authors' convenience, the templates for technical papers can be downloaded in Word or Latex format. Note that only the US Letter template will be accepted, not the A4 template.
+For authors' convenience, the templates for technical papers can be downloaded in [Word](http://ras.papercept.net/conferences/support/word.php) or [Latex](http://ras.papercept.net/conferences/support/tex.php) format. Note that only the US Letter template will be accepted, not the A4 template.
 
 ## **Paper Length**
 
@@ -33,11 +33,11 @@ Author names and affiliations should be specified in all technical papers.
 
 ## **Submission Due Date**
 
-20 October, 2019 (11:59 Pacific Time)
+~~Wednesday, October 13, 2021~~ **Thursday, October 21, 2021 (extended)** (11:59 p.m. Pacific Time)
 
 ## **Submission Method**
 
-All technical papers (with optional videos) should be submitted using PrecisionConference.  Select the "Haptics Symposium" Society, "Haptics 2020" Conference, and "Haptics 2020 Technical Papers" Track. 
+All technical papers (with optional videos) should be submitted using [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl) (submission system will be open one month prior to the deadline).  Select the "Haptics Symposium" Society, "Haptics 2022" Conference, and "Haptics 2022 Technical Papers" Track. 
 
 ## **Presentation and Publication**
 
@@ -47,11 +47,11 @@ All accepted papers will be included in the electronically distributed conferenc
 
 Paper copyright will be transferred to the IEEE as part of the publication process.
 
-Paper decisions will be announced on December 23, 2019, and will also be available in PrecisionConference.
+Paper decisions will be announced in late December, and will also be available in [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl).
 
 ## **Videos**
 
-Submission of videos is optional but strongly encouraged to help readers understand the paper.
+Submission of videos is strongly encouraged to help readers understand the paper.
 
 Uploaded videos will be reviewed along with the paper.
 
@@ -59,44 +59,48 @@ Videos will be submitted for publication to IEEE Xplore and may be used to promo
 
 Guidelines: format (mpeg 4, .mp4), length (up to 2 minutes), resolution (at least 480p progressive scan), and file size (up to 40 MB).  Final (but not initial) video submissions will need to include some simple additional files for IEEE Xplore compliance.
 
-## IEEE Transactions on Haptics (ToH) Referral Program
-
-The top 10% of submissions selected by the Program Committee based on reviews will be referred to the IEEE Transactions on Haptics (ToH) for expedited review of an evolved, journal-length version.
-
-IEEE Haptics Symposium reviews will be regarded as first-round reviews in order to accelerate the review process of ToH.
-
-Authors who want their papers to be considered for this program will need to indicate it and provide a brief description of the planned evolution of the paper during the submission process.
-
-Representatives of the ToH editorial board will be involved in selecting which of the top-rated accepted papers will be included in this program, based on the camera-ready paper that authors submit as well as the submitted description of the planned evolution.  
-
-Authors of selected papers will be directly contacted before the conference begins.  The due date for submitting the extended manuscript to ToH will be December 14, 2018. 
-
-Authors whose papers are not selected for this referral program are also encouraged to submit an extended version of their Haptics Symposium paper to the IEEE Transactions on Haptics; the only difference will be that the review process will start fresh, rather than building on the Haptics Symposium review process.
-
-Any questions about technical papers can be addressed to the conference co-chairs at chairs@hapticssymposium.org.
-
+<!--
 ## **Final Submission**
 
 All accepted technical papers will appear in this year's Haptics Symposium proceedings, which will be distributed at the conference and submitted to IEEE Xplore.
 
-We selected a new publications vendor in mid-January 2018, so the way final papers are being submitted changed at that time. We apologize for this change in procedure.
+We will be using the Conference Paper Management System of the Robotics and Automation Society (PaperPlaza) for the creation of the electronic conference program and the archival IEEE proceedings.  As such, authors will work within the established infrastructure of the [PaperPlaza system](https://ras.papercept.net).  To minimize confusion, we have provided details below on how to submit your accepted conference technical paper content to PaperPlaza.
 
-The contact author of each accepted technical paper will receive final paper submission instructions by email. Note that a 100-word abstract is not required.  We encourage optional submission of a high-resolution square image that represents the main contribution of the paper; this image will be used in the online proceedings.
+**Step 1)** The submitting author must submit an “initial” conference technical paper placeholder to the “Contributed Papers” track.  
 
-Please carefully follow the instructions provided in that email. Author teams who already submitted their final paper via PCS must resubmit following the instructions in the email; no final papers can be accepted via PCS this year.
+* The submitting author will need the title, author list, PaperPlaza PIN numbers of _all_ authors, and keywords.  
+* At this time an abstract is not required, but authors may wish to upload an abstract since it will be required before final submission. The abstract must be limited to 750 characters (~100 words) and will be required for use in the conference program.  The final abstract within the pdf manuscript file is allowed to exceed 750 characters. 
+* A pdf manuscript will not be required at this stage, although authors may wish to upload their original manuscript as a placeholder.  The pdf file size is limited to 10 MB.
 
-Due date for all items: January, 2020
+**Step 2)**  The corresponding author will receive a confirmation email that acknowledges receipt of the initial submission.
 
-Respond to the email you received or contact the publication chair at publications@hapticssymposium.org with questions about final submission of technical papers.
+**Step 3)**  Shortly after the deadline for initial submission, the corresponding author will receive a confirmation email that acknowledges acceptance of the technical paper for oral presentation. At this time, PaperPlaza will be open for the submission of final camera-ready conference technical papers via what is labelled as the “Contributed Papers” track in PaperPlaza.
+
+**Step 4)** The corresponding author must submit the final camera-ready conference technical paper content to the "Contributed Papers" track.
+
+* The title, author list, and keywords should be correct and final.  
+* The abstract for use in the conference program (limited to 750 characters or ~100 words) should be finalized.  Note that the final abstract within the paper itself (pdf manuscript file) is allowed to exceed 750 characters. 
+* Author affiliations, required ethical statements for experiments with human subjects, and funding acknowledgements should be checked.
+* The final camera-ready pdf manuscript file of up to 10 MB must be uploaded.
+  * Authors are requested to revise their manuscripts according to reviewer guidance.
+  * Technical papers that were originally submitted to the Transactions on Haptics Short Paper track must be reformatted to use the conference technical paper template, which can be found at top of this page under "Paper Format". Please see the acceptance email for further details.
+* Authors may optionally upload a final camera-ready video file of up to 40 MB in one of the following formats: mpeg, mpg, avi, mp4, wmv.  
+  * IEEE requires a plain text Readme file of up to 10 kB for any accompanying multimedia content, such as video. The Readme file must contain (1) An overall description of the video file, (2) Multimedia player information, and (3) Author contact information.
+  * IEEE requires a plain text Summary file of up to 10 kB for multimedia content.  The Summary file must describe in 5 sentences or less the contents of the video. This file helps IEEE Xplore users to make downloading decisions.
+
+**Step 5)**  The corresponding author will receive a confirmation email that acknowledges receipt of the final submission.  If there are any issues, PaperPlaza staff will contact the corresponding author.
+
+Specific questions regarding PaperPlaza should be sent to ras.101@papercept.net.  General questions about the final submission of conference technical papers should be sent to the Publications Chair at publications@hapticssymposium.org.  Urgent general questions should be sent to the Program Chair at  program@hapticssymposium.org or the General Co-chairs at chairs@hapticssymposium.org.
 
 ## **Presentation Instructions**
 
-One author from each technical paper will give a twelve-minute talk and plan to answer questions for two minutes.  We have exactly fifteen minutes allocated for each talk, including one minute to change speakers, and we will keep strictly to this schedule.
+One author from each technical paper will deliver the oral presentation in the time permitted. Further details will be provided at a later time.
 
-All presentations will be delivered from the speaker's own laptop computer to ensure the correct appearance of the slides. Please bring any required video adapters.  Both HDMI and VGA connections will be available, as well as audio output.  The projector native aspect ratio is 1.6:1.  The native resolution of the projector in the Georgian Room will be 1280x800, and that of the projector in the Colonial room is 1920x1200.  
+All presentations will be delivered from the speaker's own laptop computer to ensure the correct appearance of the slides. Please bring any required video adapters.  Both HDMI and VGA connections will be available, as well as audio output.
 
 Authors can determine their presentation room and time from the detailed conference program.  (We ask that authors check the schedule again once the conference has begun to ensure they have the most up-to-date information.)
 
 Presenters should check the connection with the conference projection system during a break before the session in which they are presenting, making sure all videos play on the screen.  Our on-site technician will be able to assist you with any issues.
 
 We ask that all presenters arrive for their session at least ten minutes before it begins, check in with the session chairs, and sit near the front of the room to facilitate the change between speakers.
+-->
