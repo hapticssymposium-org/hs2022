@@ -2,27 +2,35 @@
 title: Home
 image: /img/bg19.jpg
 ---
-
-**Update:** The 2022 IEEE Haptics Symposium is transitioning to a **virtual conference format.**  The outstanding technical content in this year’s conference will be shared via a livestream event that will take place in late March 2022, as part of the virtual conference.  Further details about the virtual conference program, registration, and opportunities for participation will be available in the near future.
-
-Submissions for Exhibits and Demonstrations are not being accepted for the virtual conference.  A newly introduced track will replace the Works-in-Progress track, and provide unique opportunities for student participation.  Further details will be available in late January.
-
-<hr>
-
 **Welcome to IEEE Haptics Symposium 2022!**
 
 Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the sense of touch, sparking new collaborations, and envisioning a future in which physical interactions are enriched through haptic technologies.  
 
-The 2022 conference will include [cross-cutting challenge](/program/) sessions, [technical paper](/presenting/technical-papers/) sessions presenting the latest advances in haptics,  [hands-on haptic demonstrations](/presenting/demos), and work-in-progress posters. An exciting social activities program will provide opportunities for socializing and networking.
+<hr>
 
-Once again for 2022, a [conference journal papers track](/presenting/transactions-on-haptics-early-submission) provides the opportunity for authors to present new findings at the conference for simultaneous publication in IEEE Transactions on Haptics.
+**The 2022 IEEE Haptics Symposium will be held virtually**.  <br><br>
+**Plenary Session: March 22, 2022 9 am to 12 pm (US Pacific Time)** <br>
+Outstanding technical content, awards, and announcements from this year’s conference. 
+
+**Cross Cutting Challenges: March 23, 2022 9 am to 12 pm** <br> 
+Keynote talks and panel discussions will be featured in two <a href="https://2022.hapticssymposium.org/program/">Cross-Cutting Challenge Thematic Sessions</a>.<br>
+
+**Attending:** Both events will be streamed live via the  <a href="https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw">IEEE Haptics Symposium YouTube Channel</a>.  No registration is required.  
+<br>
+
+**Mentoring Forum:** For 2022, we are pleased to introduce the new IEEE Haptics Symposium Mentoring Forum.    <a href="https://2022.hapticssymposium.org/presenting/mentoring-forum/">Call for Participation</a>  (submit by  February 21, 2022).
+<br>
+
+**Video Presentations** of all accepted papers will be available via the <a href="https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw">IEEE Haptics Symposium YouTube Channel</a>.
+
+
 
 ![Smiling student volunteers welcome attendees](/img/slide-image-6-crop.jpg)
 
 <hr style="height:6px; visibility:hidden;" />
 
 #### Upcoming Deadlines
- - **TBA** Works-in-Progress Submission
+ - **February 21, 2022** Submissions to the  new  <a href="https://2022.hapticssymposium.org/presenting/mentoring-forum/">IEEE Haptics Symposium Mentoring Forum</a>
 
  <!--  
 - **TBA** [Works-in-Progress Papers](/presenting/work-in-progress-wip-papers/)
